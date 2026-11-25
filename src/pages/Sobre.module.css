@@ -1,0 +1,30 @@
+.pagina {
+    width: 1000px;
+    margin: 0 auto;
+   
+}
+
+.conteudo {
+    background-color: #142630;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.conteudo h2 {
+    color: white;
+}
+
+.conteudo p {
+    line-height: 1.5;
+   
+}
+
+.tecnologias {
+    padding-left: 25px;
+   
+}
+
+.tecnologias li {
+    margin-bottom: 8px;
+   
+}

@@ -1,0 +1,12 @@
+.pagina {
+    width: 1000px;
+    margin: 0 auto;
+   
+}
+
+.catalogo {
+    display: flex;
+    gap: 20px;
+    margin-top: 25px;
+   
+}

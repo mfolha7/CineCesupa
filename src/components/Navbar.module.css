@@ -1,0 +1,40 @@
+.menu {
+    background: linear-gradient(to right, #3254e1, #212787);
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #ad85ff;
+    position: relative;
+   
+}
+
+.logo {
+    color: white;
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+
+.links {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 0;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+   
+}
+
+.links a:hover {
+    color: #ad85ff;
+   
+}

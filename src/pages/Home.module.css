@@ -1,0 +1,55 @@
+.pagina {
+    width: 1000px;
+    margin: 0 auto;
+   
+}
+
+.banner {
+    background-color: #142630;
+    padding: 30px;
+    border-radius: 8px;
+   
+}
+
+.banner h1 {
+    color: white;
+   
+}
+
+.botoes {
+    display: flex;
+    gap: 15px;
+    margin-top: 25px;
+   
+}
+
+.botao, .botaoSecundario {
+    background-color: #3254e1;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+   
+}
+
+.subtitulo {
+    margin-top: 30px;
+   
+}
+
+.categorias {
+    display: flex;
+    gap: 20px;
+   
+}
+
+.categorias article {
+    background-color: #142630;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.categorias h3 {
+    color: white;
+}
